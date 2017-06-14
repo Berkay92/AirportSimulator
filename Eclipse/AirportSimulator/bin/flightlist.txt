@@ -1,0 +1,8 @@
+AirBus,A,DJET,Ankara,Izmir,CO12,220,30
+Boeing,D,DEHY,Istanbul,Izmir,UA49,20,30
+AirBus,D,DJET,Izmir,Antalya,UA2,50,40
+Boeing,D,DJET,Izmir,Istanbul,HP410,60,50
+Boeing,A,DEHY,Antalya,Izmir,CO80,40,60
+Boeing,A,DJET,Ankara,Izmir,HP620,200,40
+AirBus,A,DEHY,Ankara,Izmir,AA3,210,20
+Boeing,A,DJET,Izmir,Ankara,AA1,10,20
